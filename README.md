@@ -1,5 +1,5 @@
 # Simone Locatelli  
-**Location:** Italy | **Email:** [simoloc@gmail.com](mailto:simoloc@gmail.com) | **LinkedIn:** www.linkedin.com/in/simone-locatelli-386b94113
+**Location:** Italy | **Email:** [simoloc@gmail.com](mailto:simoloc@gmail.com) | **LinkedIn:** [linkedin.com/in/simone-locatelli-386b94113](https://www.linkedin.com/in/simone-locatelli-386b94113)
 
 ---
 
