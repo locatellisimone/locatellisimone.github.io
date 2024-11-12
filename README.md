@@ -11,8 +11,8 @@ Graduate student in Engineering Physics with a strong passion for medical physic
 
 ## Skills
 
-- **Soft Skills:** Problem Solving | Teamwork and Organization | Leadership and Delegation | Planning and Decision-Making | Laboratory Activities
-- **IT Skills:** Office Suite | Email and Internet Use | MacOS, Windows, GNU/Linux | C++ | Python, Matlab | Root Data Analysis Framework | LTspice | Arduino and Prototyping
+- **Soft Skills:** | Problem Solving | Teamwork and Organization | Leadership and Delegation | Planning and Decision-Making | Laboratory Activities |
+- **IT Skills:** | Office Suite | Email and Internet Use | MacOS, Windows, GNU/Linux | C++, Python, Matlab | Root Data Analysis Framework | LTspice | Arduino and Prototyping |
 
 ---
 
