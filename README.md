@@ -66,6 +66,4 @@ Track and field | Climbing and hiking | Sailing
 
 ---
 
-**Authorization:**  
-I authorize the processing of my personal data contained in this curriculum vitae in accordance with Legislative Decree 2018/101 and GDPR (EU Regulation 2016/679).
 
